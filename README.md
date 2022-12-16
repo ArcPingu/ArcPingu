@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Contact with me 🤝
 <a href="https://www.instagram.com/arcanister75/">
-  <img align='left' alt='self ArcPingu | Instagram' width=22px src="https://w7.pngwing.com/pngs/623/523/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png"/>
+  <img align='left' alt='self ArcPingu | Instagram' width=22px src="https://img1.freepng.es/20180330/lte/kisspng-maker-faire-social-media-logo-instagram-instagram-5abe0f737f15a2.5301708415224052355206.jpg"/>
   </a>
 <!--
 **ArcPingu/ArcPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
