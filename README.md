@@ -1,6 +1,6 @@
 ### Hi there 👋
-![alt text][logo]
-[logo]: https://github.com/ArcPingu/ArcPingu/blob/49168501ac8ff7a3904d930e4240b210e75f4d54/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png
+[![instagram](https://github.com/ArcPingu/ArcPingu/blob/5a7492027ede1bca9910c4f967b8069c45034ee8/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png)](https://www.instagram.com/arcanistar75/)
+
 <!--
 **ArcPingu/ArcPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
