@@ -1,5 +1,6 @@
 ### Hi there 👋
-[png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png](https://github.com/ArcPingu/ArcPingu/blob/49168501ac8ff7a3904d930e4240b210e75f4d54/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png) (https://www.instagram.com/arcanister75/)
+![alt text][logo]
+[logo]: https://github.com/ArcPingu/ArcPingu/blob/49168501ac8ff7a3904d930e4240b210e75f4d54/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png
 <!--
 **ArcPingu/ArcPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
