@@ -5,7 +5,7 @@
   </a>
 
 ## Proyecto Destacado 
-[Ejercicio1Programacion](https://github.com/ArcPingu/Ejerecicio1Programacion.git): Primer ejercicio en java, un menu dentro de un bucle donde hay diferentes opciones.
+[Primer Ejercicio en Java](https://github.com/ArcPingu/Ejerecicio1Programacion.git): Primer ejercicio en java, un menu dentro de un bucle donde hay diferentes opciones.
 <!--
 **ArcPingu/ArcPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
