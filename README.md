@@ -1,4 +1,5 @@
 ### Hi i'm Arcanister  👋
+<h4>I'm an a passionate student of programming and web development</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArcPingu&label=Profile%20views&color=e6c317&style=plastic" alt="ArcPingu" /> </p>
 
 ### Contact with me 🤝
