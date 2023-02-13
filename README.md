@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/arcanister75/">
 	<img align='left' alt='self ArcPingu | Instagram' width=42px src="https://logotipoz.com/wp-content/uploads/2021/10/instagram-png.png"/>
   </a>
-
-<h2 align="left">Proyecto Destacado </h2>
+<br>
+<h2 align="left" >Proyecto Destacado </h2>
 
 [Primer Ejercicio en Java](https://github.com/ArcPingu/Ejerecicio1Programacion.git): Primer ejercicio en java, un menu dentro de un bucle donde hay diferentes opciones.
 <!--
