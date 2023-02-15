@@ -10,6 +10,7 @@
 <h2 align="left" >Proyecto Destacado </h2>
 
 [Ejercicio en Java](https://github.com/ArcPingu/Ejerecicio1Programacion.git): Primer ejercicio en java, un menu dentro de un bucle donde hay diferentes opciones.
+<br>
 [Juego en Unity](https://github.com/ArcPingu/PruebaJuego2D.git): Primer Programa creado en unity con C#, se trata de una plataforma con 2 alturas y un slime que puede moverse en el eje x y saltar. 
 <!--
 **ArcPingu/ArcPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
